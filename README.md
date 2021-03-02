@@ -1,4 +1,4 @@
-# JavaAngular_Unidad18
+# Unidad18
 Conexion Java-MySQL
 
 ### Equipo de desarrollo:
